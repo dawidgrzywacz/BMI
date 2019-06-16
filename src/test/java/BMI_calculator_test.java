@@ -1,2 +1,4 @@
-public class BMI_calculator_testg {
+public class BMI_calculator_test {
+
+
 }
